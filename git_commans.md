@@ -19,3 +19,5 @@ git commit: comando para tomar una foto a la zona de preparacion y dejar una not
 git push: subir cambios a github
 
 git merge: fusionar los cambios de una rama con otra
+
+epa epa epa colombia
